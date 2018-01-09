@@ -1,0 +1,3 @@
+path="C:\program files\java\jdk1.6.0_07\bin"
+javac sudoku3.java
+java sudoku3
